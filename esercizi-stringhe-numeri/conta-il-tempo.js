@@ -14,3 +14,4 @@
 */
 
 var time = 0;
+var casa = 3;
