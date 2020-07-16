@@ -12,3 +12,6 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var time = 0;
+var casa = 3;
