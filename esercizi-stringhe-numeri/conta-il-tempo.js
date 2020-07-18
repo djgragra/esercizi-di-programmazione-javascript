@@ -13,5 +13,5 @@
   http://www.imparareaprogrammare.it
 */
 
-var time = 0;
-var casa = 3;
+var time = 5;
+var casa = 7;
