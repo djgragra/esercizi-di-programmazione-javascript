@@ -5,15 +5,15 @@ Goditi gli esercizi e... buona programmazione!
 
 ## Esercizi su tipi di dato primari (stringhe e numeri)
 * **Facili**
-  * Somma e media
-  * Quanti anni ha?
-  * Conta il tempo
-  * Gatti in fila
+  * Somma e media ok
+  * Quanti anni ha? ok
+  * Conta il tempo ok
+  * Gatti in fila ok
 
 ## Esercizi sulle condizioni (if e switch)
 * **Facili**
-  * Pari o Dispari?
-  * Maggiore e minore
+  * Pari o Dispari? ok
+  * Maggiore e minore 
   * Menu dei dolci
   * Conta le cifre
 * **Medi**
@@ -23,7 +23,7 @@ Goditi gli esercizi e... buona programmazione!
 * **Difficili**
   * Fai il professore
   * La calcolatrice
-  
+
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
   * Rincorri la decina
@@ -33,7 +33,7 @@ Goditi gli esercizi e... buona programmazione!
   * Il calendario mediocre
 * **Difficili**
   * Rombo che stampa!
-  
+
 ## Esercizi sulle array
 * **Facili**
   * Invertimi
@@ -44,7 +44,7 @@ Goditi gli esercizi e... buona programmazione!
 * **Difficili**
   * Azzecca e azzera
   * Metti un po’ d’ordine
-  
+
 ## Esercizi sulle array multidimensionali
 * **Facili**
   * Procedi alla cieca
@@ -54,7 +54,7 @@ Goditi gli esercizi e... buona programmazione!
   * Sommali tutti
 * **Difficili**
   * Righe o colonne?
-  
+
 ## Esercizi sulle funzioni
 * **Facili**
   * La funzione banale
