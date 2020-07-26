@@ -11,3 +11,12 @@
 
   http://www.imparareaprogrammare.it
 */
+
+
+var name = 'Graziano';
+var year = 2020;
+var birth = 1968;
+var age = (year - birth);
+var to100 = (100 - age);
+
+console.log(name + ' ha ' + age + ' anni, e gli mancano ' + to100 + ' anni per arrivare a 100 anni');
