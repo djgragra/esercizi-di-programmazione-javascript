@@ -13,7 +13,7 @@ Goditi gli esercizi e... buona programmazione!
 ## Esercizi sulle condizioni (if e switch)
 * **Facili**
   * Pari o Dispari? ok
-  * Maggiore e minore 
+  * Maggiore e minore ok
   * Menu dei dolci
   * Conta le cifre
 * **Medi**
