@@ -14,8 +14,8 @@ Goditi gli esercizi e... buona programmazione!
 * **Facili**
   * Pari o Dispari? ok
   * Maggiore e minore ok
-  * Menu dei dolci
-  * Conta le cifre
+  * Menu dei dolci ok
+  * Conta le cifre ok
 * **Medi**
   * Caldo o freddo?
   * Chi l'azzecca?
