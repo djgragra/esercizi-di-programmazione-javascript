@@ -17,7 +17,7 @@ Goditi gli esercizi e... buona programmazione!
   * Menu dei dolci ok
   * Conta le cifre ok
 * **Medi**
-  * Caldo o freddo?
+  * Caldo o freddo? ok
   * Chi l'azzecca?
   * Che giorno è oggi?
 * **Difficili**
