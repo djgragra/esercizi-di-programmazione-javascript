@@ -18,7 +18,7 @@ Goditi gli esercizi e... buona programmazione!
   * Conta le cifre ok
 * **Medi**
   * Caldo o freddo? ok
-  * Chi l'azzecca?
+  * Chi l'azzecca? ok
   * Che giorno è oggi?
 * **Difficili**
   * Fai il professore
