@@ -19,7 +19,7 @@ Goditi gli esercizi e... buona programmazione!
 * **Medi**
   * Caldo o freddo? ok
   * Chi l'azzecca? ok
-  * Che giorno è oggi?
+  * Che giorno è oggi? ok
 * **Difficili**
   * Fai il professore
   * La calcolatrice
