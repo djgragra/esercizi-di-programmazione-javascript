@@ -45,3 +45,4 @@ if (random === A)
         console.log('Nessuno dei due ha azzeccato il numero estratto, ma il Giocatore 1 si è avvicinato di più!');
           else
             console.log('Nessuno dei due ha azzeccato il numero estratto, ma il Giocatore 2 si è avvicinato di più!');
+            

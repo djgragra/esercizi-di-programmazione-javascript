@@ -152,3 +152,4 @@ if (dom > lu && dom > ma && dom > me && dom > gi && dom > ve && dom > sa)
 //verifico temperatura Domenica
 if (dom < lu && dom < ma && dom < me && dom < gi && dom < ve && dom < sa)
   console.log(' Domenica è stato il giorno più freddo della settimana con ' + dom + ' gradi');
+  
