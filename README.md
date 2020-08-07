@@ -22,7 +22,7 @@ Goditi gli esercizi e... buona programmazione!
   * Che giorno è oggi? ok
 * **Difficili**
   * Fai il professore ok
-  * La calcolatrice 
+  * La calcolatrice ok
 
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
