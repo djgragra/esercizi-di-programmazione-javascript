@@ -21,8 +21,8 @@ Goditi gli esercizi e... buona programmazione!
   * Chi l'azzecca? ok
   * Che giorno è oggi? ok
 * **Difficili**
-  * Fai il professore
-  * La calcolatrice
+  * Fai il professore ok
+  * La calcolatrice 
 
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
