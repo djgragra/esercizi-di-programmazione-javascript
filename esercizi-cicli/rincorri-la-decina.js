@@ -19,3 +19,12 @@
 
   http://www.imparareaprogrammare.it
 */
+
+var i = 0
+do {
+ i++;
+  console.log(i);
+
+} while (i < 100);
+
+console.log('end');
