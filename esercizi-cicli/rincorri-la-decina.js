@@ -20,11 +20,17 @@
   http://www.imparareaprogrammare.it
 */
 
-var i = 0
+var i = 0;
+var x = 0;
 do {
  i++;
+ x++;
+ if (x < 100){
+   console.log("\n" +i);
+   x = 0;
+} else {
   console.log(i);
-
+}
 } while (i < 100);
 
 console.log('end');
