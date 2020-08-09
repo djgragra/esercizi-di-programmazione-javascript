@@ -29,7 +29,7 @@ Goditi gli esercizi e... buona programmazione!
   * Rincorri la decina ok
   * Ti ricordi le tabelline? ok
 * **Medi**
-  * Vinci tu!
+  * Vinci tu! ok
   * Il calendario mediocre
 * **Difficili**
   * Rombo che stampa!
