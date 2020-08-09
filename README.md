@@ -27,7 +27,7 @@ Goditi gli esercizi e... buona programmazione!
 ## Esercizi sui cicli (for, while e do-while)
 * **Facili**
   * Rincorri la decina ok
-  * Ti ricordi le tabelline?
+  * Ti ricordi le tabelline? ok
 * **Medi**
   * Vinci tu!
   * Il calendario mediocre
