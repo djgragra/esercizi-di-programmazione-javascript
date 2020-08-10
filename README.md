@@ -30,7 +30,7 @@ Goditi gli esercizi e... buona programmazione!
   * Ti ricordi le tabelline? ok
 * **Medi**
   * Vinci tu! ok
-  * Il calendario mediocre
+  * Il calendario mediocre ok
 * **Difficili**
   * Rombo che stampa!
 
