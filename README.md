@@ -37,7 +37,7 @@ Goditi gli esercizi e... buona programmazione!
 ## Esercizi sulle array
 * **Facili**
   * Invertimi ok
-  * Tanti numeri
+  * Tanti numeri ok
 * **Medi**
   * La tombola magica
   * Operazioni tra array
