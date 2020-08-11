@@ -32,11 +32,11 @@ Goditi gli esercizi e... buona programmazione!
   * Vinci tu! ok
   * Il calendario mediocre ok
 * **Difficili**
-  * Rombo che stampa!
+  * Rombo che stampa! !da rivedere!
 
 ## Esercizi sulle array
 * **Facili**
-  * Invertimi
+  * Invertimi ok
   * Tanti numeri
 * **Medi**
   * La tombola magica
