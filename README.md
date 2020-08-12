@@ -39,8 +39,8 @@ Goditi gli esercizi e... buona programmazione!
   * Invertimi ok
   * Tanti numeri ok
 * **Medi**
-  * La tombola magica
-  * Operazioni tra array
+  * La tombola magica ok 
+  * Operazioni tra array ok
 * **Difficili**
   * Azzecca e azzera
   * Metti un po’ d’ordine
