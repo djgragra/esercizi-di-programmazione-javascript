@@ -39,10 +39,10 @@ Goditi gli esercizi e... buona programmazione!
   * Invertimi ok
   * Tanti numeri ok
 * **Medi**
-  * La tombola magica ok 
+  * La tombola magica ok
   * Operazioni tra array ok
 * **Difficili**
-  * Azzecca e azzera
+  * Azzecca e azzera ok - manca eliminazione dei multipli
   * Metti un po’ d’ordine
 
 ## Esercizi sulle array multidimensionali
