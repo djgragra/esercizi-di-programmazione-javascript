@@ -43,7 +43,7 @@ Goditi gli esercizi e... buona programmazione!
   * Operazioni tra array ok
 * **Difficili**
   * Azzecca e azzera ok - manca eliminazione dei multipli
-  * Metti un po’ d’ordine
+  * Metti un po’ d’ordine ok - non risolto con if
 
 ## Esercizi sulle array multidimensionali
 * **Facili**
