@@ -47,7 +47,7 @@ Goditi gli esercizi e... buona programmazione!
 
 ## Esercizi sulle array multidimensionali
 * **Facili**
-  * Procedi alla cieca
+  * Procedi alla cieca ok
   * Le tabelline nel tabellone
 * **Medi**
   * Il sottosopra
