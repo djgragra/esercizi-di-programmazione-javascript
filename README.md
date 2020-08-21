@@ -50,8 +50,8 @@ Goditi gli esercizi e... buona programmazione!
   * Procedi alla cieca ok
   * Le tabelline nel tabellone ok
 * **Medi**
-  * Il sottosopra
-  * Sommali tutti
+  * Il sottosopra ok
+  * Sommali tutti ok
 * **Difficili**
   * Righe o colonne?
 
