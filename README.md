@@ -53,11 +53,11 @@ Goditi gli esercizi e... buona programmazione!
   * Il sottosopra ok
   * Sommali tutti ok
 * **Difficili**
-  * Righe o colonne?
+  * Righe o colonne? ok
 
 ## Esercizi sulle funzioni
 * **Facili**
-  * La funzione banale
+  * La funzione banale ok
   * Primo e ultimo
   * La difficoltà del fattoriale
   * Tick, tack, timer!
