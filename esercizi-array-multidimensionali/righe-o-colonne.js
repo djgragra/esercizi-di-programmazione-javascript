@@ -22,8 +22,8 @@
   http://www.imparareaprogrammare.it
 */
 
-const M = 3;
-const N = 2;
+const M = 7; //colonne
+const N = 4; //righe
 var sum = 0;
 var matrix = new Array(N);
 
@@ -38,27 +38,36 @@ for (let i = 0; i < matrix.length; i++) { //matrix.length corrisponde a N
 console.log(matrix);
 console.log('Sum is ' + sum);
 
-var R = new Array(N);
-var C = new Array(M);
-var sumR0 = 0;
-var sumR1 = 0;
+var R = new Array();
+var C = new Array();
+sum = 0;
 
-//Somma delle righe
+
+//Somma delle righe usando forEach
+for (let i = 0; i < matrix.length; i++) {
+  matrix[i].forEach(function(item, index) {
+    sum += matrix[i][index];
+  });
+
+/*
+// Somma delle righe usando For
 for (let i = 0; i < matrix.length; i++) {
   for (let j = 0; j < matrix[i].length; j++) {
-    if (i == 0) {
-    sumR0 += matrix[i][j];
-    R[0] = sumR0;
-  } else {
-    sumR1 += matrix[i][j];
-    R[1] = sumR1;
-   }
- }
+    sum += matrix[i][j];
+  }
+*/
+
+  R.push(sum);
+  sum = 0;
 }
 
 //Somma delle colonne
 for (let i = 0; i < matrix[0].length; i++) {
-  C[i] = matrix[0][i] + matrix[1][i];
+  for (let j = 0; j < matrix.length; j++) {
+    sum += matrix[j][i];
+  }
+  C.push(sum);
+  sum = 0;
 }
 
 console.log(R);
