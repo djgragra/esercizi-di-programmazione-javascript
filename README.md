@@ -61,7 +61,7 @@ Goditi gli esercizi e... buona programmazione!
   * Primo e ultimo ok
   * La difficoltà del fattoriale ok
   * Tick, tack, timer! ok
-  * Indovina il giorno
+  * Indovina il giorno ok
 * **Medi**
   * Conta il numero
   * La bellezza della casualità
