@@ -17,14 +17,11 @@
   http://www.imparareaprogrammare.it
 */
 
-
-var n = 2;
-var m = 2;
-
-if (n === m) {
-  console.log('TRUE');
-
-}else {
-  console.log('FALSE');
-
+function numeriUguali(n, m){
+  if (n === m){
+    return 'TRUE'
+  }
+    return 'FALSE'
 }
+
+console.log(numeriUguali(2,2));

@@ -58,9 +58,9 @@ Goditi gli esercizi e... buona programmazione!
 ## Esercizi sulle funzioni
 * **Facili**
   * La funzione banale ok
-  * Primo e ultimo
-  * La difficoltà del fattoriale
-  * Tick, tack, timer!
+  * Primo e ultimo ok
+  * La difficoltà del fattoriale ok
+  * Tick, tack, timer! ok
   * Indovina il giorno
 * **Medi**
   * Conta il numero
