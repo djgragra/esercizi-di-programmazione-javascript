@@ -66,10 +66,10 @@ Goditi gli esercizi e... buona programmazione!
   * Conta il numero ok
   * La bellezza della casualità ok
   * La funzione che sembra difficile ok non riesco a fare uscire 0 se K=0
-  * Il genio delle date
-  * Pa-pa-pa lindomo
+  * Il genio delle date ok
+  * Pa-pa-pa lindromo ok
 * **Difficili**
-  * Fai il sensitivo
+  * Fai il sensitivo 
   * I primi numeri… primi!
 
 ## Esercizi sugli oggetti
