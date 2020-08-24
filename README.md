@@ -53,7 +53,7 @@ Goditi gli esercizi e... buona programmazione!
   * Il sottosopra ok
   * Sommali tutti ok
 * **Difficili**
-  * Righe o colonne? ok
+  * Righe o colonne? ok nella somma colonne IF accetta solo matrix[0] e non [i]
 
 ## Esercizi sulle funzioni
 * **Facili**
@@ -63,9 +63,9 @@ Goditi gli esercizi e... buona programmazione!
   * Tick, tack, timer! ok
   * Indovina il giorno ok
 * **Medi**
-  * Conta il numero
-  * La bellezza della casualità
-  * La funzione che sembra difficile
+  * Conta il numero ok
+  * La bellezza della casualità ok
+  * La funzione che sembra difficile ok non riesco a fare uscire 0 se K=0
   * Il genio delle date
   * Pa-pa-pa lindomo
 * **Difficili**
