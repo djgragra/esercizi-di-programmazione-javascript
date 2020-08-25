@@ -69,7 +69,7 @@ Goditi gli esercizi e... buona programmazione!
   * Il genio delle date ok
   * Pa-pa-pa lindromo ok
 * **Difficili**
-  * Fai il sensitivo 
+  * Fai il sensitivo ok (manca variante)
   * I primi numeri… primi!
 
 ## Esercizi sugli oggetti
