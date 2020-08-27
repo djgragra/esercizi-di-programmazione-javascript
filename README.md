@@ -74,8 +74,8 @@ Goditi gli esercizi e... buona programmazione!
 
 ## Esercizi sugli oggetti
 * **Facili**
-  * Un bel garage
-  * Verifica la data
+  * Un bel garage ok
+  * Verifica la data ok
 * **Medi**
   * La mia rubrica
 * **Difficili**
